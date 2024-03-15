@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "VZQG81E0hKtHSmRwn2gQK/rPskHoDkPuc8zGdgZl/7s=",
+  "Source": "ReminderEmailApi",
+  "BasePath": "_content/ReminderEmailApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
